@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Habiba Elghazouly
 
-🎓 Computer & Communications Engineering Student at Alexandria University in Egypt
+🎓 Computer & Communications Engineering Student at Alexandria University
 🔧 Embedded Systems | Web Development | Problem Solving  
 💡 Passionate about building real-world software & hardware solutions
 
