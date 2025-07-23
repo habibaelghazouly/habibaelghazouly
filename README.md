@@ -14,7 +14,6 @@
 ---
 
 ## 🤝 Let’s Connect
-
+Feel free to reach out !!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/habiba-elghazouly-7059402a5/)
-- 📧 habibahoussam7@gmail.com
-- 💻 [GitHub](https://github.com/habibaelghazouly)
+- 📧 [Gmail](habibahoussam7@gmail.com)
