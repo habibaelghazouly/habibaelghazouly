@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Habiba Elghazouly
 
-🎓 Computer & Communications Engineering Student at Alexandria University
-🔧 Embedded Systems | Web Development | Problem Solving  
-💡 Passionate about building real-world software & hardware solutions
+🎓 Computer & Communications Engineering Student at Alexandria University in Egypt.  
+🔧 Embedded Systems | Web Development | Problem Solving.    
+💡 Passionate about building real-world software & hardware solutions.  
 
 ---
 
 ## 💼 Technical Skills
-- **Languages**: C/C++, Python, Java, JavaScript
-- **Web**: React.js, Node.js, HTML/CSS, Bootstrap
-- **Embedded Systems**: AVR/ARM, RTOS, Embedded C, Arduino
+- **Languages** : C/C++, Python, Java, JavaScript
+- **Web** : React.js, Node.js, HTML/CSS, Bootstrap
+- **Embedded Systems** : AVR/ARM, RTOS, Embedded C, Arduino
   
 ---
 
